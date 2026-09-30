@@ -1,1 +1,0 @@
-& "C:\Program Files\Python313\python.exe" -m streamlit run "D:\python class\project\fraud_detection.py"
